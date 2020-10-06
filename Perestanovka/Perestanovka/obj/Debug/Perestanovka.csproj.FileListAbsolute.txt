@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\bin\Debug\Perestanovka.exe
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\bin\Debug\Perestanovka.pdb
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\obj\Debug\Perestanovka.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\obj\Debug\Perestanovka.Form1.resources
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\obj\Debug\Perestanovka.Properties.Resources.resources
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\obj\Debug\Perestanovka.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\obj\Debug\Perestanovka.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\obj\Debug\Perestanovka.exe
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\obj\Debug\Perestanovka.pdb
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\obj\Debug\Perestanovka.Form2.resources
+C:\Users\USER\source\repos\Perestanovka\Perestanovka\obj\Debug\Perestanovka.Form3.resources

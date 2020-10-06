@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perestanovka", "Perestanovka\Perestanovka.csproj", "{76492A5F-3035-44AA-97B6-0887BC1DFF76}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A6709FD2-2C55-482D-AFA7-03178AA43024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76492A5F-3035-44AA-97B6-0887BC1DFF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76492A5F-3035-44AA-97B6-0887BC1DFF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76492A5F-3035-44AA-97B6-0887BC1DFF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76492A5F-3035-44AA-97B6-0887BC1DFF76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40686D86-3C4B-46BF-86B4-B7AEE506C9E1}
+	EndGlobalSection
+EndGlobal
